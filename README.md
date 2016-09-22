@@ -1,4 +1,4 @@
 # hello-world
 test repository
 
-Attempting to learn coding - difficult but wortth it
+Attempting to learn coding - difficult but worth it
